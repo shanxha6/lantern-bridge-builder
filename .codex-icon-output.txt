@@ -1,0 +1,1 @@
+Saved `icon_1024.png`, but the native tool returned 1254×1254. May I resize it to 1024×1024? Your no-resizing rule currently prevents that correction.

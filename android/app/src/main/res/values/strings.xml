@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Lantern Bridge Builder</string>
+    <string name="title_main">LANTERN BRIDGE BUILDER</string>
+    <string name="splash_subtitle">LAY THE PLANKS LIGHT THE RIVER</string>
+    <string name="loading">LOADING</string>
+
+    <string name="play">PLAY</string>
+    <string name="roll">ROLL</string>
+    <string name="rolling">ROLLING...</string>
+    <string name="roll_again">ROLL AGAIN</string>
+    <string name="next_crossing">NEXT CROSSING</string>
+    <string name="menu">MENU</string>
+    <string name="start_building">START BUILDING</string>
+    <string name="undo">UNDO</string>
+    <string name="resume">RESUME</string>
+    <string name="restart">RESTART</string>
+    <string name="cancel">CANCEL</string>
+    <string name="reset_progress">RESET PROGRESS</string>
+    <string name="reset_confirm">RESET</string>
+    <string name="lantern_gallery">LANTERN GALLERY</string>
+    <string name="how_to_build">HOW TO BUILD</string>
+    <string name="settings">SETTINGS</string>
+
+    <string name="menu_hint">TAP TWO POSTS TO LAY A PLANK. SPARE PLANKS BECOME STARS.</string>
+    <string name="fraction">%1$d/%2$d</string>
+    <string name="planks_counter">PLANKS %1$d/%2$d</string>
+    <string name="crossing_label">DISTRICT %1$d · CROSSING %2$d</string>
+    <string name="district_short">D%1$d</string>
+    <string name="stat_lanterns">LANTERNS</string>
+    <string name="stat_stars">STARS</string>
+    <string name="stat_planks_left">PLANKS LEFT</string>
+    <string name="stat_planks_used">PLANKS USED</string>
+    <string name="stat_crossing">CROSSING</string>
+
+    <string name="district_1">LANTERN FORD</string>
+    <string name="district_2">PAPER MILLS</string>
+    <string name="district_3">REED CHANNEL</string>
+    <string name="district_4">INK HARBOUR</string>
+    <string name="district_5">HIGH MOON WEIR</string>
+
+    <string name="bridge_held">BRIDGE HELD</string>
+    <string name="cart_fell">CART FELL IN</string>
+    <string name="hint_fail">LONG SPANS SAG AND SNAP. SHORTEN THE MIDDLE.</string>
+    <string name="hint_two_stars">THREE PLANKS SPARE EARNS THE THIRD STAR.</string>
+    <string name="hint_three_stars">A CLEAN CROSSING. THE RIVER IS LIT.</string>
+    <string name="new_lantern">NEW LANTERN UNLOCKED</string>
+    <string name="gallery_caption">LIGHT CROSSINGS TO UNLOCK LANTERNS</string>
+
+    <string name="lantern_1">FORD DAWN</string>
+    <string name="lantern_2">FORD DUSK</string>
+    <string name="lantern_3">MILL PAPER MOON</string>
+    <string name="lantern_4">MILL AMBER FOLD</string>
+    <string name="lantern_5">REED WHISPER</string>
+    <string name="lantern_6">REED GREEN TIDE</string>
+    <string name="lantern_7">HARBOUR INK DROP</string>
+    <string name="lantern_8">HARBOUR NIGHT SAIL</string>
+    <string name="lantern_9">WEIR HIGH MOON</string>
+    <string name="lantern_10">WEIR LAST LIGHT</string>
+
+    <string name="tutorial_subtitle">FOUR RULES OF THE RIVER</string>
+    <string name="tutorial_step">STEP %1$d</string>
+    <string name="tutorial_1_title">TAP TWO POSTS</string>
+    <string name="tutorial_1_body">Tap one lantern post, then another. A bamboo plank snaps between them when they are close enough.</string>
+    <string name="tutorial_2_title">PLANKS ARE LIMITED</string>
+    <string name="tutorial_2_body">Every crossing has a plank budget. Planks you do not spend turn into stars at the end of the run.</string>
+    <string name="tutorial_3_title">LONG SPANS SAG</string>
+    <string name="tutorial_3_body">A plank bends under the cart. Over 240 units of load it groans once and then snaps.</string>
+    <string name="tutorial_4_title">HEAVIER CARTS LATER</string>
+    <string name="tutorial_4_body">Each district rolls a heavier cart, so the safe span gets shorter the further upriver you build.</string>
+
+    <string name="pause_title">PAUSED</string>
+    <string name="pause_body">The cart waits on the bank until you are ready.</string>
+    <string name="quit_title">LEAVE THIS CROSSING</string>
+    <string name="quit_body">The planks you laid here will be cleared.</string>
+    <string name="reset_title">RESET PROGRESS</string>
+    <string name="reset_body">Every lantern and star will be put out.</string>
+
+    <string name="setting_sound">SOUND</string>
+    <string name="setting_sound_hint">Soft ticks when a plank lands</string>
+    <string name="setting_vibration">VIBRATION</string>
+    <string name="setting_vibration_hint">A short tap on every placement</string>
+    <string name="setting_gentle">GENTLE MODE</string>
+    <string name="setting_gentle_hint">Slower falls and no shake</string>
+    <string name="settings_subtitle">SOUND, FEEL AND PROGRESS</string>
+    <string name="version_line">VERSION 1.0 · OFFLINE · NO NETWORK</string>
+    <string name="state_on">On</string>
+    <string name="state_off">Off</string>
+
+    <string name="cd_logo">Lantern Bridge Builder emblem</string>
+    <string name="cd_settings">Open settings</string>
+    <string name="cd_menu">Back to the district map</string>
+    <string name="cd_pause">Pause the round</string>
+    <string name="cd_cart">Paper cart</string>
+    <string name="cd_lantern_lit">Lantern post, lit</string>
+    <string name="cd_lantern_unlit">Lantern post, not lit</string>
+    <string name="cd_lantern_design">Collectible paper lantern</string>
+    <string name="stars_of">%1$d of %2$d stars</string>
+    <string name="district_state">District %1$d, %2$d of %3$d crossings complete</string>
+    <string name="district_locked_state">District %1$d locked</string>
+    <string name="locked_state">Locked, complete district %1$d</string>
+    <string name="planks_left_state">%1$d planks left</string>
+    <string name="bridge_state_ready">Bridge connected, the cart can cross</string>
+    <string name="bridge_state_open">Bridge not connected yet</string>
+    <string name="next_locked_state">Cross this bridge to open the next one</string>
+</resources>
